@@ -3,7 +3,7 @@ into something mantainable and tested.
 
 This app processes a CSV list of orders and calls the imaginary Visa processing API.
 
-To run create two directories C:\temp\orders\unprocessed and C:\temp\orders\processed and copy the orders.csv
+To run create two directories C:\temp\orders\unprocessed and C:\temp\orders\processed and copy the 1.csv
 to C:\temp\orders\unprocessed.
 
 
